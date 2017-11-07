@@ -1,2 +1,2 @@
 # OpenShiftonWSL
-Using OpenShift oc cluster up on Windows Susystem for Linux
+Using OpenShift oc cluster up on Windows Subsystem for Linux
